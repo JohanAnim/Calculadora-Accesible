@@ -1,4 +1,4 @@
-﻿/* Proyecto creado por JohanAnim */
+﻿/* Código que controla y realiza los cálculos */
 
 function setResult(value) {
 document.getElementById('result').innerHTML = value;
