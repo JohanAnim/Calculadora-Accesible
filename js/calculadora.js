@@ -1,4 +1,6 @@
-﻿function setResult(value) {
+﻿/* Proyecto creado por JohanAnim */
+
+function setResult(value) {
 document.getElementById('result').innerHTML = value;
 }
 function getResult() {
